@@ -1,0 +1,9 @@
+F:\GitHub\rxfxLua\General\Tools\XLuaGenerate.exe
+F:\GitHub\rxfxLua\General\Tools\XLuaGenerate.pdb
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaGenerate\XLuaGenerate.csproj.AssemblyReference.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaGenerate\XLuaGenerate.Src.XLuaTemplates.resources
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaGenerate\XLuaGenerate.csproj.GenerateResource.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaGenerate\XLuaGenerate.csproj.CoreCompileInputs.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaGenerate\XLuaGenerate.csproj.CopyComplete
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaGenerate\XLuaGenerate.exe
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaGenerate\XLuaGenerate.pdb

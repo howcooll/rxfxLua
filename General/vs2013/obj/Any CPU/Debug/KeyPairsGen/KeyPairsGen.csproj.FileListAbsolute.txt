@@ -1,0 +1,6 @@
+F:\GitHub\rxfxLua\General\Tools\KeyPairsGen.exe
+F:\GitHub\rxfxLua\General\Tools\KeyPairsGen.pdb
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\KeyPairsGen\KeyPairsGen.csproj.AssemblyReference.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\KeyPairsGen\KeyPairsGen.csproj.CoreCompileInputs.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\KeyPairsGen\KeyPairsGen.exe
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\KeyPairsGen\KeyPairsGen.pdb

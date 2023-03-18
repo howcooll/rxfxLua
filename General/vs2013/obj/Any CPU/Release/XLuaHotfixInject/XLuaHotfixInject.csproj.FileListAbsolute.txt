@@ -1,0 +1,7 @@
+F:\GitHub\rxfxLua\General\Tools\XLuaHotfixInject.exe
+F:\GitHub\rxfxLua\General\Tools\XLuaHotfixInject.pdb
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaHotfixInject\XLuaHotfixInject.csproj.AssemblyReference.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaHotfixInject\XLuaHotfixInject.csproj.CoreCompileInputs.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaHotfixInject\XLuaHotfixInject.csproj.CopyComplete
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaHotfixInject\XLuaHotfixInject.exe
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLuaHotfixInject\XLuaHotfixInject.pdb

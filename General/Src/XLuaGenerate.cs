@@ -16,6 +16,7 @@ namespace XLua
 
         public static void Main(string[] args)
         {
+            Console.WriteLine($"XLuaGenerate Main ------------------- args -> {args}");
             if (args.Length == 0)
             {
                 Useage();

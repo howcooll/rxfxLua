@@ -20,6 +20,8 @@ namespace XLuaTest
         {
             if (++tick % 50 == 0)
             {
+
+
                 Debug.Log(">>>>>>>>Update in C#, tick = " + tick);
             }
         }

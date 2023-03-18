@@ -1,0 +1,6 @@
+F:\GitHub\rxfxLua\General\Tools\XLua.Mini.dll
+F:\GitHub\rxfxLua\General\Tools\XLua.Mini.pdb
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLua.Mini\XLua.Mini.csproj.AssemblyReference.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLua.Mini\XLua.Mini.csproj.CoreCompileInputs.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLua.Mini\XLua.Mini.dll
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Release\XLua.Mini\XLua.Mini.pdb

@@ -1,0 +1,6 @@
+F:\GitHub\rxfxLua\General\Tools\FilesSignature.exe
+F:\GitHub\rxfxLua\General\Tools\FilesSignature.pdb
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.csproj.AssemblyReference.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.csproj.CoreCompileInputs.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.exe
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.pdb

@@ -1,0 +1,7 @@
+F:\GitHub\rxfxLua\General\Bin\XLuaUnitTest.exe
+F:\GitHub\rxfxLua\General\Bin\XLuaUnitTest.pdb
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\XLuaUnitTest\XLuaUnitTest.csproj.AssemblyReference.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\XLuaUnitTest\XLuaUnitTest.csproj.CoreCompileInputs.cache
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\XLuaUnitTest\XLuaUnitTest.csproj.CopyComplete
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\XLuaUnitTest\XLuaUnitTest.exe
+F:\GitHub\rxfxLua\General\vs2013\obj\Any CPU\Debug\XLuaUnitTest\XLuaUnitTest.pdb

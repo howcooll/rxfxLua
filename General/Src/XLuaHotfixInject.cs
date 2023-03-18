@@ -6,6 +6,26 @@ using System.Reflection;
 
 namespace XLua
 {
+    static class ex
+    {
+        public static string arraytostring(this string[] args)
+        {
+            var s = "------------------------\n";
+
+            if (args == null || args.Length == 0)
+            {
+                return s;
+            }
+
+            for (var i = 0; i < args.Length; i++)
+            {
+                s += args[i] + "\n";
+            }
+            s += "------------------------\n";
+            return s;
+        }
+    }
+
     public class XLuaHotfixInject
     {
         public static void Useage()
@@ -13,10 +33,22 @@ namespace XLua
             Console.WriteLine("XLuaHotfixInject assmbly_path xlua_assembly_path gencode_assembly_path id_map_file_path [cfg_assmbly2_path] [search_path1, search_path2 ...]");
         }
 
+        static void Info(string info)
+        {
+#if XLUA_GENERAL
+            System.Console.WriteLine(info);
+#else
+            UnityEngine.Debug.Log(info);
+#endif
+        }
+
         public static void Main(string[] args)
         {
+            // Info($"XLuaHotfixInject Main args -> {args.arraytostring()}");
+
             if (args.Length < 4)
             {
+                // Info($"XLuaHotfixInject Main args.Length < 4");
                 Useage();
                 return;
             }
@@ -57,7 +89,7 @@ namespace XLua
                     using (BinaryReader reader = new BinaryReader(File.Open(cfg_append, FileMode.Open)))
                     {
                         int count = reader.ReadInt32();
-                        for(int i = 0; i < count; i++)
+                        for (int i = 0; i < count; i++)
                         {
                             string k = reader.ReadString();
                             int v = reader.ReadInt32();
@@ -68,9 +100,10 @@ namespace XLua
                         }
                     }
                 }
+                // Info($"XLuaHotfixInject Main HotfixInject");
                 Hotfix.HotfixInject(injectAssmblyPath, xluaAssmblyPath, genAssemblyPath, args.Skip(cfg_append == null ? 4 : 5), args[3], hotfixCfg);
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 Console.WriteLine("Exception in hotfix inject: " + e);
             }
